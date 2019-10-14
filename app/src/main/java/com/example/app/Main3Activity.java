@@ -11,6 +11,7 @@ import android.widget.RadioGroup;
 public class Main3Activity extends AppCompatActivity implements View.OnClickListener{
     RadioButton radioButton1, radioButton2, radioButton3;
     ImageView imageView;
+    int a;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
